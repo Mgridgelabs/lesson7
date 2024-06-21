@@ -1,0 +1,59 @@
+body {
+    background: linear-gradient(-91deg, #5fd687,#da70d6); /* Gradient from Purple to Orchid */
+}
+header {
+    background-color: black;
+    width: 100%;
+    height: -20px;
+    position:fixed;
+    z-index: 50;
+}
+
+header h1{
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    color:white;
+}
+.music-list {
+    margin-top: 20px;
+    position:relative;
+}
+
+.card {
+    width: 300px;
+    margin-top: 20px;
+   
+}
+
+.card image {
+    width: 100%;
+    object-fit: contain;
+}
+
+.card audio {
+    margin-left: -13px;
+    width: 80%;
+}
+
+/* .card-container {
+    display: flex;
+    gap: 200px; 
+    size: 200px;
+    justify-content: space-evenly;
+} */
+
+.footer {
+    background-color: black;
+    width: -100px;
+    height: 60px;
+    margin-bottom: auto;
+    
+}
+
+.footer p {
+    text-align: center;
+    font-size: 15px;
+    color: antiquewhite;
+    padding: 20px;
+}

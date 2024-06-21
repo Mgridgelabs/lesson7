@@ -1,0 +1,8 @@
+display: flex,grid,inline-block
+
+static-normal flow 
+relative-normal flow of document
+fixed-disrupts the normal flow of the doc
+z-index- allows positioning of index over one another
+sticky-
+absolute-
