@@ -39,8 +39,8 @@ header h1{
 
 .card-container {
     display: flex;
-    gap: 200px; 
-    size: 200px;
+    gap: 100px; 
+    size: 100px;
     justify-content: space-evenly;
 }
 
