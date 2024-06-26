@@ -24,8 +24,7 @@ header h1{
 .card {
     width: 300px;
     margin-top: 20px;
-   
-}
+ }
 
 .card image {
     width: 100%;
@@ -35,6 +34,7 @@ header h1{
 .card audio {
     margin-left: 5px;
     width: 80%;
+    margin-top: 30px;
 }
 
 .card-container {
